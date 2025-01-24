@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrey Smirnoff</h1>
+<h1 align="center">Hi 👋, I'm Nikita Kuznetsov</h1>
 <h3 align="center">Fullstack web developer JS/TS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreysmirnoffv&label=Profile%20views&color=0e75b6&style=flat" alt="andreysmirnoffv" /> </p>
