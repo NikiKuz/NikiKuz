@@ -28,8 +28,6 @@
 [![](https://visitcount.itsvg.in/api?id=AndreySmirnoffv&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
- 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreySmirnoffv/AndreySmirnoffv/output/github-snake-dark.svg" />
 
