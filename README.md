@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AndreySmirnoffv/count.svg?"  />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Fullstack%20Developer&animation=twinkling&textBg=false"  />
 </div>
 
 ###
