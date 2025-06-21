@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Backend%20Developer&animation=twinkling&textBg=false"  />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Fullstack%20Developer&animation=twinkling&textBg=false"  />
 </div>
 
 ###
