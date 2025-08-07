@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Kuznetsov AKA Andrey Smirnoff</h1>
+<h1 align="center">Hi 👋, I'm Nikita Kuznetsov</h1>
 
 ###
 
